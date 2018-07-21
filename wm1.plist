@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.h1b.wx21</string>
 				<key>bundle-version</key>
-				<string>6.5.8</string>
+				<string>6.5.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>完美</string>
 				<key>title</key>
-				<string>完美01（请无视内功能）-更多福利及更新请关注微信公众号：toolsir</string>
+				<string>完美-01（请无视内功能）-更多福利及更新请关注微信公众号：toolsir</string>
 			</dict>
 		</dict>
 	</array>
